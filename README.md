@@ -12,12 +12,13 @@ The bitcoin price predictor is a useful project. The blockchain technology is in
 - Feature Engineering.
 - Checking Distributions.
 - Time Series Analysis with ARIMA.
+- Conclusion
 
 ### Files:
 
-- ##### BitcoinPredictionn:
+- ##### BitcoinPredictionn.ipynb:
 This is the main file where we will be performing our work in the project.(Colab)
-- #### BitcoinPrediction:
+- #### BitcoinPrediction.ipynb:
 This is the main file where we will be performing our work in the project.(Jupyter Notebook)
 - #### bitcoin.csv , Test.csv , Training.csv:
 These are the project datasets that will be loaded in the notebook.
